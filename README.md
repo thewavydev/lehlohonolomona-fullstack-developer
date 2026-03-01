@@ -124,7 +124,7 @@ Edit content directly in component files:
 
 - **Portfolio**: [Visit Live Site](#)
 - **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/lehlohonolo-mona-74832b18a)
-- **Repository**: [View on GitHub](#)
+<!-- - **Repository**: [View on GitHub](#) -->
 
 ## 📝 License
 
