@@ -78,7 +78,7 @@ const form = reactive({
 
           <div class="flex gap-4">
             <a
-              href="https://github.com"
+              href="https://github.com/thewavydev/lehlohonolo-mona"
               target="_blank"
               rel="noopener noreferrer"
               class="flex items-center gap-2 rounded-lg border border-slate-300 bg-white px-4 py-2 text-sm font-medium text-slate-900 transition-colors hover:border-emerald-600/40 hover:text-emerald-600"
