@@ -11,11 +11,11 @@
       </p>
 
       <!-- Diagram placeholder -->
-      <div
+      <!-- <div
       class="mx-auto mt-12 flex h-64 max-w-4xl items-center justify-center rounded-xl border-2 border-dashed border-emerald-600/30 bg-slate-50"
       >
         <p class="text-slate-500">Architecture Diagram Placeholder</p>
-      </div>
+      </div> -->
 
       <div class="mt-12 grid gap-6 sm:grid-cols-2">
         <div
