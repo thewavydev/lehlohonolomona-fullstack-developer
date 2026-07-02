@@ -19,7 +19,7 @@
           <span class="text-emerald-600"> Scalable Business Systems</span>
         </h1>
         <p class="mx-auto mt-6 max-w-2xl text-lg text-slate-600">
-          I design and build high-performance web applications using Vue.js, Laravel, and AWS — with a focus on clean
+          I design and build high-performance web applications using Vue.js, Laravel, with a focus on clean
           architecture, database optimization, and scalable backend systems.
         </p>
 

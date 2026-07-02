@@ -2,7 +2,7 @@
 const categories = [
   {
     title: "Frontend",
-    skills: ["Vue.js 3 (Options API)", "Nuxt 3", "TailwindCSS"],
+    skills: ["Vue.js 3 (Options API)", "Nuxt 4", "TailwindCSS"],
   },
   {
     title: "Backend",
