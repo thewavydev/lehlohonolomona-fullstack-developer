@@ -30,17 +30,6 @@
         >
           {{ l.label }}
         </a>
-
-        <!-- Dark Mode Button -->
-        <button
-          @click="toggleDark"
-          class="rounded-full p-2 text-slate-700 transition-colors hover:bg-emerald-500/10 hover:text-emerald-600 dark:text-slate-300 dark:hover:bg-emerald-400/10"
-          aria-label="Toggle theme"
-          type="button"
-        >
-          <Sun v-if="dark" :size="18" />
-          <Moon v-else :size="18" />
-        </button>
       </nav>
 
       <!-- Mobile Controls -->
@@ -102,12 +91,12 @@ import { ref, onMounted, onUnmounted } from "vue";
 import { Menu, X, Sun, Moon } from "lucide-vue-next";
 
 const navLinks = [
-  { label: "Home.vue", href: "#home" },
-  { label: "About.vue", href: "#about" },
-  { label: "Skills.vue", href: "#skills" },
-  { label: "Projects.vue", href: "#projects" },
-  { label: "Architecture.vue", href: "#architecture" },
-  { label: "Contact.vue", href: "#contact" },
+  { label: "Home", href: "#home" },
+  { label: "About", href: "#about" },
+  { label: "Skills", href: "#skills" },
+  { label: "Projects", href: "#projects" },
+  { label: "Architecture", href: "#architecture" },
+  { label: "Contact", href: "#contact" },
 ];
 
 const mobileOpen = ref(false);

@@ -38,7 +38,7 @@ const strengths = [
       </h2>
 
       <p class="mx-auto mt-4 max-w-2xl text-center text-slate-600">
-        I'm Lehlohonolo Mona — a performance-focused full-stack developer with a passion for building scalable,
+        I'm Lehlohonolo Mona a performance-focused full-stack developer with a passion for building scalable,
         maintainable business systems. I think in systems, design for growth, and write code that lasts.
       </p>
 
@@ -58,7 +58,7 @@ const strengths = [
         <h3 class="mb-3 text-lg font-semibold text-slate-900">Architecture Philosophy</h3>
         <p class="leading-relaxed text-slate-600">
           I believe in building software that is modular, testable, and ready for growth. Every system I architect
-          follows the Service Layer Pattern — separating business logic from controllers, keeping database queries
+          follows the Service Layer Pattern separating business logic from controllers, keeping database queries
           optimized, and ensuring each component has a single responsibility. The goal is always code that the next
           developer can understand and extend.
         </p>

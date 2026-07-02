@@ -72,7 +72,7 @@ const form = reactive({
           </h3>
 
           <p class="leading-relaxed text-slate-600">
-            Whether you need a scalable backend system, a polished Vue.js frontend, or full-stack architecture consulting —
+            Whether you need a scalable backend system, a polished Vue.js frontend, or full-stack architecture consulting,
             I'm ready to help bring your vision to life.
           </p>
 

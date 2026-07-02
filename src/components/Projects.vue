@@ -12,7 +12,9 @@
 
       <div>
         <p class="mx-auto mt-12 max-w-2xl text-center text-sm text-slate-600">
-            Coming Soon: Detailed case studies of my most impactful projects, showcasing architecture, challenges solved, and performance optimizations.
+            <a href="https://www.sohoconnect.co.za/" target="_blank">
+              <img src="../assets/soho-connect.png" alt="" class="mx-auto h-12 w-auto" />
+            </a>
         </p>
       </div>
       <!-- <div class=" mt-12 grid gap-8 md:grid-cols-2">

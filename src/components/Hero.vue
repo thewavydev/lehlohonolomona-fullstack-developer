@@ -63,10 +63,10 @@ const techBadges = [
   "Laravel",
   "TailwindCSS",
   "MySQL",
-  "AWS",
+  // "AWS",
   "REST APIs",
   "Docker",
-  "FastAPI",
-  "Python"
+  // "FastAPI",
+  // "Python"
 ];
 </script>
